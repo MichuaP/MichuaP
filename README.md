@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichuaP but you can call me Mich
-- 🌱 I’m currently studying 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I am currently studying a Bachelor of Science in Computer Engineering.
+- 📫 You can send me an e-mail if you want to contact me or whatever.
+- 🦅
 
 <!---
 MichuaP/MichuaP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
