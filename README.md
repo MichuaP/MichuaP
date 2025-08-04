@@ -5,6 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MichuaP](https://github.com/MichuaP)
 
+- 🌐 You can visit my static web page at [https://mywebsite-paula-cruz.vercel.app](https://mywebsite-paula-cruz.vercel.app/inicio)
+
 - 📫 How to reach me **paulacruzl@outlook.es**
 
 <h3 align="left">Connect with me:</h3>
