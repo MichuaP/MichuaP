@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Michelle Cruz</h1>
+<h1 align="center">Hi, I'm Michelle Cruz</h1>
 <h3 align="center">A Mexican computer engineering student who enjoys reading and creating interesting and fun programs.</h3>
 
-- 🌱 I’m currently learning **Japanese, react and data analysis.**
+- 🌱 I’m currently learning **Japanese and Testing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MichuaP](https://github.com/MichuaP)
-
-- 🌐 You can visit my static web page at [https://mywebsite-paula-cruz.vercel.app](https://mywebsite-paula-cruz.vercel.app/inicio)
 
 - 📫 How to reach me **paulacruzl@outlook.es**
 
