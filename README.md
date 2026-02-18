@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michelle Cruz</h1>
-<h3 align="center">A Mexican computer engineering student who enjoys reading and creating interesting and fun programs.</h3>
+<h3 align="center">A Mexican computer engineer who enjoys reading and creating interesting and fun programs.</h3>
 
 - 🌱 I’m currently learning **Japanese and Testing.**
 
